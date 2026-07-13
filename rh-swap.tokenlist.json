@@ -10,7 +10,7 @@
       "name": "Test USD Coin",
       "symbol": "tUSDC",
       "decimals": 6,
-      "logoURI": "https://REPLACE_WITH_YOUR_HOST/tusdc.png"
+      "logoURI": "https://raw.githubusercontent.com/VJMX12/rh-swap-assets/main/logos/tusdc.png"
     },
     {
       "chainId": 46630,
@@ -18,7 +18,7 @@
       "name": "Test Wrapped BTC",
       "symbol": "tWBTC",
       "decimals": 8,
-      "logoURI": "https://REPLACE_WITH_YOUR_HOST/twbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/VJMX12/rh-swap-assets/main/logos/twbtc.png"
     },
     {
       "chainId": 46630,
@@ -26,7 +26,7 @@
       "name": "Test Doge",
       "symbol": "tDOGE",
       "decimals": 18,
-      "logoURI": "https://REPLACE_WITH_YOUR_HOST/tdoge.png"
+      "logoURI": "https://raw.githubusercontent.com/VJMX12/rh-swap-assets/main/logos/tdoge.png"
     }
   ]
 }
