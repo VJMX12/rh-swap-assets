@@ -1,0 +1,32 @@
+{
+  "name": "rh-swap Testnet Tokens",
+  "timestamp": "2026-07-13T11:39:00+07:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["robinhood-chain", "testnet", "rh-swap"],
+  "tokens": [
+    {
+      "chainId": 46630,
+      "address": "0x3d12ae41e065e6eb818a8f3a6cf04260118a05e2",
+      "name": "Test USD Coin",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "logoURI": "https://REPLACE_WITH_YOUR_HOST/tusdc.png"
+    },
+    {
+      "chainId": 46630,
+      "address": "0xbc7b28a0608b7113f887bea13644237ca2214da2",
+      "name": "Test Wrapped BTC",
+      "symbol": "tWBTC",
+      "decimals": 8,
+      "logoURI": "https://REPLACE_WITH_YOUR_HOST/twbtc.png"
+    },
+    {
+      "chainId": 46630,
+      "address": "0x19bf8bade92965105264b728358ad3ecf03a4f8e",
+      "name": "Test Doge",
+      "symbol": "tDOGE",
+      "decimals": 18,
+      "logoURI": "https://REPLACE_WITH_YOUR_HOST/tdoge.png"
+    }
+  ]
+}
