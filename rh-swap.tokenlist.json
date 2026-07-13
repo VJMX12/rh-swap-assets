@@ -1,8 +1,8 @@
 {
-  "name": "rh-swap Testnet Tokens",
+  "name": "rh-swap Tokens",
   "timestamp": "2026-07-13T11:39:00+07:00",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "keywords": ["robinhood-chain", "testnet", "rh-swap"],
+  "version": { "major": 1, "minor": 1, "patch": 0 },
+  "keywords": ["robinhood-chain", "testnet", "mainnet", "rh-swap"],
   "tokens": [
     {
       "chainId": 46630,
@@ -27,6 +27,22 @@
       "symbol": "tDOGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/VJMX12/rh-swap-assets/main/logos/tdoge.png"
+    },
+    {
+      "chainId": 46630,
+      "address": "0xACFb668a717E83bCA5da1F1255dE06F834ad2531",
+      "name": "Unstable Doge Coin",
+      "symbol": "UNSTBL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VJMX12/rh-swap-assets/main/logos/unstbl.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8D90f26AA6cDaf8e617fe6709aAE4c9b3b29eBEb",
+      "name": "Unstable Doge Coin",
+      "symbol": "UNSTBL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VJMX12/rh-swap-assets/main/logos/unstbl.png"
     }
   ]
 }
